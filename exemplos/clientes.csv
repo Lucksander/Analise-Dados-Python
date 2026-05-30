@@ -1,0 +1,121 @@
+﻿ID_Cliente,Nome,Idade,Cidade,Renda
+1,Lucas Lima,33,Belo Horizonte,3641.9
+2,Pedro Oliveira,55,Recife,2219.53
+3,Rafael Pereira,50,Manaus,2150.27
+4,Pedro Carvalho,32,Fortaleza,9578.31
+5,Bruno Carvalho,39,Brasília,3852.33
+6,Camila Oliveira,42,São Paulo,6538.53
+7,Vanessa Lima,69,Salvador,11432.46
+8,Alexandre Oliveira,53,Brasília,12748.14
+9,Gabriela Alves,63,São Paulo,2404.88
+10,Leonardo Oliveira,72,Belo Horizonte,13237.58
+11,Juliana Almeida,58,Curitiba,3947.03
+12,Jéssica Lima,62,São Paulo,9840.53
+13,Pedro Pereira,28,Fortaleza,6808.81
+14,Thiago Santos,32,Salvador,12426.6
+15,Juliana Oliveira,31,Manaus,13368.05
+16,Jéssica Lopes,43,Fortaleza,3685.9
+17,Diego Barbosa,52,Brasília,11660.58
+18,Gabriela Martins,41,Belo Horizonte,14964.7
+19,Arthur Lopes,23,Salvador,13166.56
+20,Bruno Carvalho,56,São Paulo,6878.93
+21,Julia Lima,53,Salvador,10779.74
+22,Pedro Lima,67,Curitiba,3272.49
+23,Letícia Almeida,18,Brasília,14628.92
+24,Arthur Souza,73,Brasília,12910.04
+25,Rodrigo Ribeiro,66,Rio de Janeiro,8919.8
+26,Carlos Costa,49,Salvador,3276.65
+27,Aline Pereira,21,Belo Horizonte,13389.73
+28,Mateus Lopes,70,São Paulo,14709.4
+29,Rodrigo Lopes,53,Rio de Janeiro,5298.75
+30,Jéssica Barbosa,66,Belo Horizonte,11210.93
+31,Patrícia Almeida,75,Porto Alegre,7759.62
+32,Diego Oliveira,39,Salvador,9565.68
+33,João Pereira,18,São Paulo,11143.5
+34,Diego Oliveira,75,Salvador,13147.19
+35,Arthur Pereira,35,Fortaleza,4627.93
+36,João Vieira,48,Belo Horizonte,12156.98
+37,Jéssica Souza,24,Recife,6476.73
+38,Sofia Santos,61,São Paulo,2600.09
+39,Camila Pereira,30,Belo Horizonte,8878.97
+40,André Ferreira,35,Fortaleza,5097.45
+41,Ricardo Barbosa,24,Salvador,10408.31
+42,Mateus Pereira,28,Recife,8210.46
+43,Alexandre Santos,28,Recife,1828.45
+44,Juliana Almeida,36,Recife,10995.01
+45,Amanda Alves,36,Belo Horizonte,14586.96
+46,Thiago Santos,21,Manaus,8093.61
+47,Gabriel Soares,23,Rio de Janeiro,2704.48
+48,Diego Martins,25,Manaus,5050.04
+49,Carlos Oliveira,44,Manaus,9261.0
+50,Juliana Alves,60,Curitiba,4950.65
+51,Amanda Gomes,47,Curitiba,14063.04
+52,Lucas Almeida,57,Manaus,14948.47
+53,Pedro Alves,50,Brasília,3548.43
+54,Larissa Pereira,41,Brasília,3882.26
+55,Vanessa Soares,18,Porto Alegre,5751.8
+56,Rodrigo Lima,25,São Paulo,11599.9
+57,Gustavo Gomes,56,Belo Horizonte,11272.48
+58,Gustavo Soares,49,Brasília,13750.44
+59,Mateus Carvalho,71,Brasília,2381.95
+60,Amanda Lima,28,Fortaleza,9082.18
+61,Luana Silva,25,São Paulo,14274.67
+62,Pedro Santos,71,Curitiba,9489.13
+63,André Rodrigues,20,Brasília,6613.4
+64,Marcelo Alves,61,Belo Horizonte,10603.52
+65,Luana Carvalho,57,Rio de Janeiro,14020.08
+66,Bruno Ferreira,74,Recife,2127.18
+67,Isabela Pereira,35,Rio de Janeiro,12193.34
+68,Alexandre Santos,72,Fortaleza,4736.13
+69,Patrícia Gomes,70,Belo Horizonte,4742.59
+70,Alexandre Costa,35,São Paulo,14562.94
+71,Patrícia Soares,43,Porto Alegre,6171.18
+72,Felipe Lima,29,Manaus,14505.45
+73,Beatriz Souza,56,Recife,6363.07
+74,Isabela Machado,50,São Paulo,6884.58
+75,Gustavo Santos,63,Recife,1822.32
+76,Marcelo Carvalho,22,Curitiba,10025.65
+77,Leonardo Soares,37,Recife,6105.61
+78,Luana Rodrigues,30,Recife,10577.07
+79,Letícia Machado,54,Brasília,7160.19
+80,Leonardo Gomes,31,Recife,12172.02
+81,Sofia Almeida,46,Belo Horizonte,8547.5
+82,Mateus Gomes,50,Manaus,6224.48
+83,Leonardo Pereira,69,Belo Horizonte,3745.07
+84,Diego Lopes,57,São Paulo,7811.49
+85,Alexandre Lopes,43,Belo Horizonte,3747.94
+86,Felipe Carvalho,32,Rio de Janeiro,12414.25
+87,Beatriz Barbosa,33,São Paulo,7825.3
+88,Julia Barbosa,56,Curitiba,14340.52
+89,Vanessa Soares,45,Porto Alegre,7686.06
+90,Vinícius Almeida,34,Belo Horizonte,12886.19
+91,Julia Lopes,58,Belo Horizonte,5424.69
+92,Leonardo Pereira,35,Curitiba,6020.17
+93,Rodrigo Rodrigues,32,Recife,10960.14
+94,Mateus Carvalho,44,Curitiba,8962.47
+95,Beatriz Alves,71,Recife,6941.09
+96,João Martins,48,Salvador,14244.19
+97,Carol Carvalho,52,Porto Alegre,12358.26
+98,Vinícius Pereira,35,Recife,8210.47
+99,Fernanda Martins,64,Rio de Janeiro,12894.67
+100,Carlos Barbosa,19,Recife,9612.98
+101,Mateus Carvalho,26,Fortaleza,4198.82
+102,Carol Costa,31,Fortaleza,6114.36
+103,Juliana Carvalho,34,São Paulo,8008.05
+104,Marcelo Pereira,59,São Paulo,12112.28
+105,Lucas Pereira,30,Salvador,10001.63
+106,Rodrigo Lopes,60,São Paulo,9244.4
+107,Ricardo Lima,67,Curitiba,4014.82
+108,Bruno Gomes,24,Manaus,2138.96
+109,Gabriela Martins,43,Belo Horizonte,2803.15
+110,Felipe Gomes,72,Manaus,12432.97
+111,Marcelo Barbosa,45,Curitiba,2710.23
+112,Mariana Carvalho,70,Fortaleza,3193.11
+113,Sofia Rodrigues,45,Rio de Janeiro,11486.1
+114,Vanessa Barbosa,67,Fortaleza,7936.33
+115,Fernanda Pereira,71,São Paulo,5481.85
+116,Bruna Almeida,54,Manaus,10620.09
+117,Mariana Lopes,72,Curitiba,4200.29
+118,Marcelo Lima,39,Brasília,13420.22
+119,Luana Silva,51,Belo Horizonte,2930.09
+120,Laura Barbosa,66,Belo Horizonte,10916.04
